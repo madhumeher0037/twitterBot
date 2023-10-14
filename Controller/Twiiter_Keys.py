@@ -1,0 +1,10 @@
+consumer_key = 'W0bhK3GCvOZlUn1F8AvvFcE2U'
+consumer_secret = 'vv6SqWFJthR8tyVElNKeASdYQnA9MkUA57d7uExHbmFkYu3Oxm'
+access_token = '1710547705372524544-g9bCYVXD7ZTWmdaZPYE17kvyprhSW3'
+access_token_secret = 'icZo6zXRiQM6MrWYODBmrZbcHDN4ri7IGhlMh33yYe8L1'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAJyKqQEAAAAAfv8Btw2EAnZ9ygWYPuwGT25%2FhF0%3DoG3dIMDNbKtuwqAQSwjFJc0ZPSwCxc4YoxkDzgekAOXESHKUlO'
+newsApi = '9905cb3ab7b7feacb1f5697e3447daad'
+chatGptApiKey = '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'
+Secure_1PSID = 'bAicPfVUQA-E5eAvqD83v8Z2prnlSO-3PTPwoOU2oqyEETlC6CZzMNSQ1gdZFFpmYdzq_Q.'
+Secure_1PSIDTS = 'sidts-CjEB3e41hX8skWLlrbK6Ou8mjiHvyok51xW8UWbvll6LqAMh_trvv2F-2yiMxJDYdcYZEAA'
+Palm_API = "AIzaSyBY6fQa6b3cWd0FDrUNjs9HgoyYFpV8Qb4"
